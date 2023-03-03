@@ -1,0 +1,348 @@
+[
+    [
+        {
+        "department": "Information Technology",
+        "level": [
+            {
+                "level": 100,
+                "courses": [
+                    {
+                        "name": "Probability & Statistics",
+                        "books": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Goodreads",
+                                "link": "http://www.goodreads.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ],
+                        "videoResources": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Youtube",
+                                "link": "http://www.youtube.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "level": 200,
+                "courses": [
+                    {
+                        "name": "Probability & Statistics",
+                        "books": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Goodreads",
+                                "link": "http://www.goodreads.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ],
+                        "videoResources": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Youtube",
+                                "link": "http://www.youtube.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "level": 300,
+                "courses": [
+                    {
+                        "name": "Probability & Statistics",
+                        "books": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Goodreads",
+                                "link": "http://www.goodreads.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ],
+                        "videoResources": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Youtube",
+                                "link": "http://www.youtube.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "level": 400,
+                "courses": [
+                    {
+                        "name": "Probability & Statistics",
+                        "books": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Goodreads",
+                                "link": "http://www.goodreads.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ],
+                        "videoResources": [
+                            {
+                                "name": "Placeholder",
+                                "website": "Youtube",
+                                "link": "http://www.youtube.com",
+                                "thumbnail": "photo.svg",
+                                "price": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+        },
+        {
+            "department": "Information Technology",
+            "level": [
+                {
+                    "level": 100,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 200,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 300,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 400,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Information Technology",
+            "level": [
+                {
+                    "level": 100,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 200,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 300,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 400,
+                    "courses": [
+                        {
+                            "name": "Probability & Statistics",
+                            "books": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Goodreads",
+                                    "link": "http://www.goodreads.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ],
+                            "videoResources": [
+                                {
+                                    "name": "Placeholder",
+                                    "website": "Youtube",
+                                    "link": "http://www.youtube.com",
+                                    "thumbnail": "photo.svg",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    
+    [
+        {
+            "email": "togunleye@mucg.edu.gh",
+            "password": "bssidd196893",
+            "image": "images/avatar.avif",
+            "department": "Department of Information Technology",
+            "surname": "Ogunleye",
+            "other names": "Toluwalashe Olakunle",
+            "gender": "Male",
+            "level": 400,
+            "program": "Bachelor Of Science (Information Technology)",
+            "reg num": "BSSI/DD/196893",
+            "batch": "AUG2019-JUN2023",
+            "campus": "Dansoma"
+        }
+    ]
+]
