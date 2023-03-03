@@ -222,10 +222,12 @@ main > h1 {
 }
 
 .login {
+    position: relative;
+    top: 4em;
     background: white;
     max-width: 90%;
     margin: auto;
-    padding-top: 3em;
+    padding-top: 2em;
     padding: 1em;
     font-family: var(--font-family-sans-serif);
 }
